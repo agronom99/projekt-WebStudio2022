@@ -111,7 +111,7 @@ ul {
 
 .h1-fon {
   background-image: url(/images/ImgFon.png);
-  /* background-color: var(--background-fon); */
+  background-color: var(--background-fon);
   width: 1600px;
   height: 600px;
   margin: 0 auto;
@@ -281,7 +281,7 @@ ul {
 }
 .button:hover,
 .button:focus {
-  background-color: #188ce8;
+  background-color: var(--button-beckground);
   color: var(--primary-background);
   border-radius: 4px;
 }
