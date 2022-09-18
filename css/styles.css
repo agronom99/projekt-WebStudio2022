@@ -111,7 +111,7 @@ ul {
 
 .h1-fon {
   background-image: url(/images/ImgFon.png);
-  background-color: var(--background-fon);
+  /* background-color: var(--background-fon); */
   width: 1600px;
   height: 600px;
   margin: 0 auto;
